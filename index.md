@@ -7,6 +7,6 @@ Jeeves becomes Bertie Wooster's guardian and all-purpose problem solver, devisin
 
 ## Skills
 
-*highly competent, dignified, and respectful
-*intelligent and with encylopidic knowledge
-*abel to calming down an irate person
+* highly competent, dignified, and respectful
+* intelligent and with encylopidic knowledge
+* abel to calming down an irate person
