@@ -10,3 +10,6 @@ Jeeves becomes Bertie Wooster's guardian and all-purpose problem solver, devisin
 * highly competent, dignified, and respectful
 * intelligent and with encylopidic knowledge
 * abel to calming down an irate person
+
+
+<img src="http://www.elproductions.co.uk/wp-content/uploads/2013/10/JEEVES-11.jpg"/>
